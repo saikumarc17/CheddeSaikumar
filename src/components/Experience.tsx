@@ -5,12 +5,13 @@ import { motion } from 'framer-motion';
 const experience = {
   role: 'System Engineer',
   company: 'Tata Consultancy Services',
-  period: '2020 - Present',
+  period: '2021 - Present',
   highlights: [
-    'Led development of enterprise-scale applications serving 1M+ users',
-    'Architected and implemented microservices architecture reducing system latency by 40%',
-    'Mentored junior developers and established best practices for the team',
-    'Implemented CI/CD pipelines reducing deployment time by 60%'
+    'Developed and maintained enterprise-scale web applications using Angular and React, serving over 1M+ users with a focus on scalability and performance',
+    'Architected microservices and implemented CI/CD pipelines, reducing system latency by 40% and deployment times by 60%',
+    'Conducted code reviews to ensure high-quality, maintainable code and fostered best practices across the team',
+    'Enhanced user experiences by building responsive, dynamic interfaces in Angular and React, boosting engagement by 25%',
+    'Mentored junior developers and collaborated with cross-functional teams to deliver high-quality features on time'
   ]
 };
 
